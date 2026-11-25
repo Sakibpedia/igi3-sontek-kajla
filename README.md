@@ -1,5 +1,7 @@
 # IGI 3 — Sontek Kajla
 
+[![Build IGI 3 (Windows)](https://github.com/Sakibpedia/igi3-sontek-kajla/actions/workflows/build_exes.yml/badge.svg)](https://github.com/Sakibpedia/igi3-sontek-kajla/actions/workflows/build_exes.yml)
+
 ![IGI 3 - Sontek Kajla banner](docs/images/banner.png)
 
 **15 Bengali IGI-style stealth missions in a dense, shop-filled Sontek Kajla, Dhaka.**

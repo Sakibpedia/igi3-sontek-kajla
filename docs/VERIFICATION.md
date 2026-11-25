@@ -44,6 +44,10 @@ hook to the final extraction.
   (embedded-PCK `.exe`, 118 MB).
 - The exported executable was launched on Windows and stayed running for 12 s
   before being stopped deliberately — no startup crash.
+- GitHub Actions run
+  [45640226663](https://github.com/Sakibpedia/igi3-sontek-kajla/actions/runs/45640226663)
+  completed successfully in 2 m 2 s: import, menu smoke, all headless suites,
+  Windows export, packaging and artifact upload all passed.
 
 ## Engine messages
 
