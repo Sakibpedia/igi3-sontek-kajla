@@ -1,0 +1,363 @@
+﻿key,file,note,text,where
+line_00f1ac1b9f,line_00f1ac1b9f.ogg,,"জি স্যার, টেপ খুলছি।",scripts/actors/AllyAI.gd:222
+line_e7a3f0e2d2,line_e7a3f0e2d2.ogg,,"জি স্যার, মুখে টেপ লাগাচ্ছি।",scripts/actors/AllyAI.gd:222
+line_b2004d08e2,line_b2004d08e2.ogg,,"জি স্যার, বাঁধন খুলছি।",scripts/actors/AllyAI.gd:223
+line_eacc5c7a45,line_eacc5c7a45.ogg,,"জি স্যার, হাত-পা বাঁধছি।",scripts/actors/AllyAI.gd:223
+line_6450c4083c,line_6450c4083c.ogg,,"জি স্যার, পানি দিচ্ছি — আপনি শুনুন।",scripts/actors/AllyAI.gd:224
+line_e5be653ce5,line_e5be653ce5.ogg,,"জি স্যার, কাঁধে তুলছি।",scripts/actors/AllyAI.gd:224
+line_9a800a98cc,line_9a800a98cc.ogg,,"জি স্যার, নামিয়ে রাখছি।",scripts/actors/AllyAI.gd:225
+line_992c8306fe,line_992c8306fe.ogg,,"জি স্যার, আপনার পেছনেই আছি।",scripts/actors/AllyAI.gd:225
+line_fc1bc40f2f,line_fc1bc40f2f.ogg,,"জি স্যার, এখানেই অপেক্ষা করছি।",scripts/actors/AllyAI.gd:226
+line_29df27253c,line_29df27253c.ogg,,"জি স্যার, উদ্ধার যানে নিয়ে যাচ্ছি।",scripts/actors/AllyAI.gd:226
+line_0c4b20be45,line_0c4b20be45.ogg,,জি স্যার।,scripts/actors/AllyAI.gd:227
+line_257b5f874d,line_257b5f874d.ogg,,"মুখে টেপ আছে, স্যার — আগে টেপ খোলার আদেশ দিন।",scripts/actors/AllyAI.gd:252
+line_b600f97a63,line_b600f97a63.ogg,,"আমার বোতল খালি, স্যার।",scripts/actors/AllyAI.gd:256
+line_446da3c23e,line_446da3c23e.ogg,,"কাঁধে নিয়েছি, স্যার। আপনার আদেশের অপেক্ষায় আছি।",scripts/actors/AllyAI.gd:347
+line_06110869d1,line_06110869d1.ogg,,"পৌঁছেছি, স্যার। কী আদেশ?",scripts/actors/AllyAI.gd:371
+line_c1c13d7567,line_c1c13d7567.ogg,,"জি স্যার, বন্দিকে আমি ধরে রাখছি — টুঁ শব্দও করবে না।",scripts/actors/AllyAI.gd:398
+line_d92b215bbb,line_d92b215bbb.ogg,,"নেমে পড়েছি, স্যার — আলফা নারী সদস্য হাজির।",scripts/actors/AllyAI.gd:425
+line_9b00112884,line_9b00112884.ogg,,"নেমে পড়েছি, স্যার!",scripts/actors/AllyAI.gd:425
+line_be47083c15,,TTS only (filled in at run time),"শুনেছি, স্যার। বোতলে আর %s বার পানি আছে। আর কী আদেশ?",scripts/actors/AllyAI.gd:439
+line_3bcb1971e5,,TTS only (filled in at run time),"তথ্য শুনেছি, মুখে আবার টেপ লাগিয়ে দিয়েছি। বোতলে আর %s বার পানি আছে।",scripts/actors/AllyAI.gd:444
+line_f0ae6d0f91,line_f0ae6d0f91.ogg,,"জিম্মিকে কাঁধে তুলে নিয়েছি, স্যার! আপনার পেছনেই আছি।",scripts/actors/AllyAI.gd:674
+line_ff0fac6a8c,line_ff0fac6a8c.ogg,,সন্ত্রাসী,scripts/actors/EnemyAI.gd:268
+line_06d37f0a3a,line_06d37f0a3a.ogg,,গুলি শেষ! গুলির বাক্সের দিকে যাচ্ছি — কভার দাও!,scripts/actors/EnemyAI.gd:268
+line_3b982bd0e2,line_3b982bd0e2.ogg,,চক্রের নেতা,scripts/actors/EnemyAI.gd:339
+line_a7228b16a1,line_a7228b16a1.ogg,,গুলি করবেন না! আমি আত্মসমর্পণ করছি!,scripts/actors/EnemyAI.gd:339
+line_49bd7f2b80,line_49bd7f2b80.ogg,,ফ্রিল্যান্সার,scripts/actors/EnemyAI.gd:379
+line_83de94f2fa,line_83de94f2fa.ogg,,তোদের নেতা কোথায়? সত্যি বললে আদালতে তোর জন্য বলব।,scripts/actors/EnemyAI.gd:379
+line_7dc4f50bf4,line_7dc4f50bf4.ogg,,বন্দি,scripts/actors/EnemyAI.gd:382
+line_964a1b6df2,line_964a1b6df2.ogg,,আমি কিছু জানি না! আমি শুধু পাহারা দিতাম…,scripts/actors/EnemyAI.gd:382
+line_f636ec2d2f,line_f636ec2d2f.ogg,,"ঠিক আছে, ঠিক আছে… নেতা ওই বাড়ির দোতলায় থাকে। সিঁড়িতে গেট, বাসিন্দারা চাবি রাখে।",scripts/actors/EnemyAI.gd:390
+line_480343182f,line_480343182f.ogg,,নেতা আর নেই… বাকিরা গুলির বাক্সের কাছে জড়ো হয়।,scripts/actors/EnemyAI.gd:395
+line_5e08cbccaa,line_5e08cbccaa.ogg,,আপনি গ্রেপ্তার। চুপচাপ আমার পেছনে হাঁটুন।,scripts/actors/EnemyAI.gd:420
+line_e2e277698b,line_e2e277698b.ogg,,"বাঁচাও! এই যে, এদিকে!",scripts/actors/EnemyAI.gd:485
+line_35781f6623,line_35781f6623.ogg,,"ভাইয়েরা, আমাকে ধরে নিয়ে যাচ্ছে!",scripts/actors/EnemyAI.gd:485
+line_c61affc251,line_c61affc251.ogg,,"এদিকে আয়, পুলিশ এখানে!",scripts/actors/EnemyAI.gd:485
+line_8284bca5db,line_8284bca5db.ogg,,ওই যে! ধর ওকে!,scripts/actors/EnemyAI.gd:591
+line_3ecaf7fecf,line_3ecaf7fecf.ogg,,পুলিশ! সবাই এদিকে আয়!,scripts/actors/EnemyAI.gd:591
+line_0b505e08f6,line_0b505e08f6.ogg,,গুলি কর! ওখানে!,scripts/actors/EnemyAI.gd:591
+line_114d86b958,line_114d86b958.ogg,,দয়া করে আমাকে এখান থেকে নিয়ে চলুন…,scripts/actors/Hostage.gd:45
+line_21e3c3bba2,line_21e3c3bba2.ogg,,আমার মা আমার জন্য অপেক্ষা করছে…,scripts/actors/Hostage.gd:45
+line_7e6388f979,line_7e6388f979.ogg,,"ওরা আবার আসবে, তাড়াতাড়ি করুন!",scripts/actors/Hostage.gd:45
+line_715bbc268f,line_715bbc268f.ogg,,হাতটা খুব ব্যথা করছে…,scripts/actors/Hostage.gd:46
+line_522fcc2a26,line_522fcc2a26.ogg,,"আল্লাহ, আমাকে রক্ষা করো…",scripts/actors/Hostage.gd:46
+line_db89cff5c9,line_db89cff5c9.ogg,,আরেকটু পানি পাওয়া যাবে?,scripts/actors/Hostage.gd:46
+line_5b1e5636ac,line_5b1e5636ac.ogg,,ওদের নেতা খুব ভয়ংকর মানুষ…,scripts/actors/Hostage.gd:46
+line_9f3243c238,line_9f3243c238.ogg,,আমি আর হাঁটতে পারছি না…,scripts/actors/Hostage.gd:47
+line_e19f375d76,line_e19f375d76.ogg,,দুই দিন কিছু খেতে দেয়নি ওরা…,scripts/actors/Hostage.gd:47
+line_fa6ef74449,line_fa6ef74449.ogg,,শুনছেন? কেউ আসছে মনে হয়!,scripts/actors/Hostage.gd:47
+line_dfe36b6332,line_dfe36b6332.ogg,,বাসায় ফিরতে চাই… শুধু বাসায়…,scripts/actors/Hostage.gd:47
+line_9e5d0520d1,line_9e5d0520d1.ogg,,আপনারা সত্যিই পুলিশ তো?,scripts/actors/Hostage.gd:48
+line_26b10cc079,line_26b10cc079.ogg,,ওরা আমার ফোন কেড়ে নিয়েছে…,scripts/actors/Hostage.gd:48
+line_0cbfbd896b,line_0cbfbd896b.ogg,,আমার ছোট ভাইটা কেমন আছে কে জানে…,scripts/actors/Hostage.gd:48
+line_7200faeb50,line_7200faeb50.ogg,,ভয় লাগছে… খুব ভয় লাগছে…,scripts/actors/Hostage.gd:48
+line_8727ba49c2,line_8727ba49c2.ogg,,খুব খিদে পেয়েছে… কিছু খাবার হবে?,scripts/actors/Hostage.gd:49
+line_d46d47161b,line_d46d47161b.ogg,,"যতক্ষণ শ্বাস আছে, ততক্ষণ আশা আছে — তাই না?",scripts/actors/Hostage.gd:49
+line_0c185b001d,line_0c185b001d.ogg,,আপনি না এলে আজ আমার যে কী হতো…,scripts/actors/Hostage.gd:49
+line_dd4d1e80d1,line_dd4d1e80d1.ogg,,এই শহরে এত অন্ধকার কোথা থেকে এল?,scripts/actors/Hostage.gd:50
+line_f7d9ce385b,line_f7d9ce385b.ogg,,"ঝড় যত বড়ই হোক, ভোর তো একদিন আসবেই!",scripts/actors/Hostage.gd:50
+line_b58e8caaa2,line_b58e8caaa2.ogg,,ওদের চোখে কোনো দয়ামায়া নেই…,scripts/actors/Hostage.gd:50
+line_681d62ac9b,line_681d62ac9b.ogg,,বাড়ি ফিরে প্রথমে মায়ের হাতের ভাত খাব…,scripts/actors/Hostage.gd:51
+line_9729cb4c2e,line_9729cb4c2e.ogg,,"ভাগ্য ভালো, আপনাদের দেখা পেলাম!",scripts/actors/Hostage.gd:51
+line_c0d126f6e6,line_c0d126f6e6.ogg,,"শুনুন, ওরা রাতে পাহারা বদলায়…",scripts/actors/Hostage.gd:51
+line_107917e739,line_107917e739.ogg,,"আমাকে ফেলে যাবেন না, প্লিজ!",scripts/actors/Hostage.gd:52
+line_84dfb4e59e,line_84dfb4e59e.ogg,,এই কদিনে একটুও ঘুমাতে পারিনি…,scripts/actors/Hostage.gd:52
+line_8b6cd3de1d,line_8b6cd3de1d.ogg,,মনে হচ্ছে দুঃস্বপ্ন দেখছি… জেগে উঠলেই সব শেষ হবে।,scripts/actors/Hostage.gd:52
+line_1571cc30e5,line_1571cc30e5.ogg,,রফিক,scripts/actors/Hostage.gd:54
+line_301ce015f8,line_301ce015f8.ogg,,জামাল,scripts/actors/Hostage.gd:54
+line_a6a1f094b0,line_a6a1f094b0.ogg,,সোহেল,scripts/actors/Hostage.gd:54
+line_04cfa24557,line_04cfa24557.ogg,,তানভীর,scripts/actors/Hostage.gd:54
+line_14253fb6ac,line_14253fb6ac.ogg,,মাহবুব,scripts/actors/Hostage.gd:54
+line_0860fc0d66,line_0860fc0d66.ogg,,আরিফ,scripts/actors/Hostage.gd:54
+line_17bf8d3ac1,line_17bf8d3ac1.ogg,,কামরুল,scripts/actors/Hostage.gd:54
+line_c74926f245,line_c74926f245.ogg,,শফিক,scripts/actors/Hostage.gd:54
+line_07316aa3b0,line_07316aa3b0.ogg,,নাসির,scripts/actors/Hostage.gd:54
+line_80b21b94f9,line_80b21b94f9.ogg,,ইমরান,scripts/actors/Hostage.gd:54
+line_7779bfe719,line_7779bfe719.ogg,,রাশেদ,scripts/actors/Hostage.gd:54
+line_1f883c07c2,line_1f883c07c2.ogg,,হাসান,scripts/actors/Hostage.gd:54
+line_1a56e6e325,line_1a56e6e325.ogg,,রুমানা,scripts/actors/Hostage.gd:55
+line_4ce5859fa6,line_4ce5859fa6.ogg,,তাসলিমা,scripts/actors/Hostage.gd:55
+line_3d1cb20a89,line_3d1cb20a89.ogg,,নাসরিন,scripts/actors/Hostage.gd:55
+line_af6dea4882,line_af6dea4882.ogg,,ফারজানা,scripts/actors/Hostage.gd:55
+line_27601abc3b,line_27601abc3b.ogg,,শারমিন,scripts/actors/Hostage.gd:55
+line_490c69b5ca,line_490c69b5ca.ogg,,মৌসুমী,scripts/actors/Hostage.gd:55
+line_bd9e2aae31,line_bd9e2aae31.ogg,,রাবেয়া,scripts/actors/Hostage.gd:55
+line_bca0c14475,line_bca0c14475.ogg,,সুমাইয়া,scripts/actors/Hostage.gd:55
+line_b750e975fb,line_b750e975fb.ogg,,লাইলা,scripts/actors/Hostage.gd:55
+line_fa9c9265fc,line_fa9c9265fc.ogg,,জেসমিন,scripts/actors/Hostage.gd:55
+line_32618dd315,line_32618dd315.ogg,,নুসরাত,scripts/actors/Hostage.gd:55
+line_2d9b7049b0,line_2d9b7049b0.ogg,,সাদিয়া,scripts/actors/Hostage.gd:55
+line_f24a6e8552,line_f24a6e8552.ogg,,আগে মুখের টেপ খুলুন (E চেপে ধরুন)।,scripts/actors/Hostage.gd:302
+line_e2d1fc695a,line_e2d1fc695a.ogg,,বোতলে পানি নেই — টিউবওয়েল বা পানির কল থেকে বোতল ভরে নিন।,scripts/actors/Hostage.gd:306
+line_72efffffbb,line_72efffffbb.ogg,,"পুরুষ জিম্মিকে শুধু আলফা নারী সদস্যরা বাঁধতে, টেপ খুলতে-লাগাতে বা কাঁধে নিতে পারেন — J চাপুন (কেউ না থাকলে L)।",scripts/actors/Hostage.gd:360
+line_970f845aa3,line_970f845aa3.ogg,,শ্‌শ্‌… আহ্‌… ধন্যবাদ!,scripts/actors/Hostage.gd:400
+line_e06de79160,line_e06de79160.ogg,,ছেড়ে দিন! আমি পালাব!,scripts/actors/Hostage.gd:517
+line_46c2d06c4a,line_46c2d06c4a.ogg,,না! ছাড়ুন আমাকে!,scripts/actors/Hostage.gd:577
+line_e8cb6b0f0c,,TTS only (filled in at run time),"%s উদ্ধার যানে উঠেছেন। চমৎকার কাজ, ফ্রিল্যান্সার!",scripts/actors/Hostage.gd:689
+line_2edff7ac83,line_2edff7ac83.ogg,,আহ্‌! আমাকে গুলি লেগেছে!,scripts/actors/Hostage.gd:713
+line_d7fe5bf5d7,line_d7fe5bf5d7.ogg,,মুখে টেপ — আগে টেপ খুলতে হবে।,scripts/actors/Hostage.gd:734
+line_e28c6f7e31,line_e28c6f7e31.ogg,,আর খেতে পারব না… অনেক ধন্যবাদ।,scripts/actors/Hostage.gd:739
+line_bff7a7539b,line_bff7a7539b.ogg,,আহ্‌… দুই দিন পর কিছু মুখে দিলাম। আল্লাহ আপনার ভালো করুক!,scripts/actors/Hostage.gd:745
+line_928957d18b,line_928957d18b.ogg,,(সাহায্যের জন্য ইশারা করছেন),scripts/actors/Hostage.gd:841
+line_98166cc105,line_98166cc105.ogg,,জিম্মিকে কাঁধে নিয়ে শুধু পিস্তল চালানো যায়।,scripts/actors/PlayerController.gd:228
+line_48394a925a,line_48394a925a.ogg,,পানিতে পড়ে গিয়েছিলেন — আগের জায়গায় ফেরত।,scripts/actors/PlayerController.gd:303
+line_65ee544947,line_65ee544947.ogg,,দুই কাঁধে দুজন — আর নেওয়া যাবে না। G চাপলে একজনকে নামাবেন।,scripts/actors/PlayerController.gd:506
+line_9b10cbafa2,line_9b10cbafa2.ogg,,খুব ভারী — একা তোলা যাবে না। J চেপে আলফা সদস্যকে ডাকুন।,scripts/actors/PlayerController.gd:513
+line_38012ac84d,line_38012ac84d.ogg,,খাবার নেই — দোকানের মেশিন থেকে কিনুন (৳২০)।,scripts/actors/PlayerController.gd:635
+line_b48a8377bb,line_b48a8377bb.ogg,,একটা চকলেট খেলেন — শরীরে একটু জোর ফিরল।,scripts/actors/PlayerController.gd:645
+line_03fa442f2d,line_03fa442f2d.ogg,,কাঁধে জিম্মি নিয়ে শুয়ে পড়া যায় না।,scripts/actors/PlayerController.gd:658
+line_39ec633b32,line_39ec633b32.ogg,,জিম্মি কাঁধে নিয়ে সাঁতার কাটা যায় না — তাঁকে পাড়ে রেখে এসেছেন।,scripts/actors/PlayerController.gd:688
+line_e354463231,line_e354463231.ogg,,নিরাপদে নেমেছেন। দল আপনার আশপাশেই।,scripts/actors/PlayerController.gd:828
+line_2bd313eb23,,TTS only (filled in at run time),আর %s নেই।,scripts/actors/PlayerController.gd:837
+line_5acc790755,line_5acc790755.ogg,,গ্রেনেড,scripts/actors/PlayerController.gd:837
+line_886cba8326,line_886cba8326.ogg,,মলোটভ,scripts/actors/PlayerController.gd:837
+line_b799bb2f32,line_b799bb2f32.ogg,,আর কোনো টাইম বোমা নেই।,scripts/actors/PlayerController.gd:855
+line_2e38db659c,line_2e38db659c.ogg,,টাইম বোমা বসানো হলো — ১০ সেকেন্ড! সরে যান!,scripts/actors/PlayerController.gd:866
+line_abb16730d1,line_abb16730d1.ogg,,নায়ক (ফ্রিল্যান্সার),scripts/ui/CustomizePanel.gd:18
+line_10f9128bba,line_10f9128bba.ogg,,আলফা টিম,scripts/ui/CustomizePanel.gd:18
+line_3bb4a8f732,line_3bb4a8f732.ogg,,আলফা নারী দল,scripts/ui/CustomizePanel.gd:18
+line_aac98a81e6,line_aac98a81e6.ogg,,শত্রু ও ভিলেন,scripts/ui/CustomizePanel.gd:18
+line_fa8f234dee,line_fa8f234dee.ogg,,জিম্মি,scripts/ui/CustomizePanel.gd:18
+line_627ecc6994,line_627ecc6994.ogg,,সাধারণ,scripts/ui/CustomizePanel.gd:19
+line_d2c0bcc040,line_d2c0bcc040.ogg,,হালকা-পাতলা,scripts/ui/CustomizePanel.gd:19
+line_caa010c3cd,line_caa010c3cd.ogg,,ভারী / শক্তপোক্ত,scripts/ui/CustomizePanel.gd:19
+line_fffe68a586,line_fffe68a586.ogg,,"শক্তিশালী, পেশিবহুল",scripts/ui/CustomizePanel.gd:19
+line_6515c0c3c2,line_6515c0c3c2.ogg,,ট্যাকটিক্যাল,scripts/ui/CustomizePanel.gd:22
+line_bfcc622589,line_bfcc622589.ogg,,সাধারণ পোশাক,scripts/ui/CustomizePanel.gd:22
+line_425dd3c7f5,line_425dd3c7f5.ogg,,পাঞ্জাবি,scripts/ui/CustomizePanel.gd:22
+line_c610847b67,line_c610847b67.ogg,,পুলিশ নেভি ব্লু,scripts/ui/CustomizePanel.gd:23
+line_dfb0127997,line_dfb0127997.ogg,,কালো কমান্ডো,scripts/ui/CustomizePanel.gd:23
+line_7997413234,line_7997413234.ogg,,খাকি,scripts/ui/CustomizePanel.gd:23
+line_c45436b10e,line_c45436b10e.ogg,,মিশ্র,scripts/ui/CustomizePanel.gd:25
+line_abdb18b454,line_abdb18b454.ogg,,টি-শার্ট ও জিন্স,scripts/ui/CustomizePanel.gd:25
+line_02375e8420,line_02375e8420.ogg,,পাঞ্জাবি ও লুঙ্গি,scripts/ui/CustomizePanel.gd:25
+line_2cdcb4deee,line_2cdcb4deee.ogg,,সালোয়ার-কামিজ (পুরুষ: শার্ট-প্যান্ট),scripts/ui/CustomizePanel.gd:26
+line_eb2e6cb84e,line_eb2e6cb84e.ogg,,শার্ট ও প্যান্ট (পুরুষ: পাঞ্জাবি),scripts/ui/CustomizePanel.gd:26
+line_f8c9a75586,line_f8c9a75586.ogg,,বোরকা ও হিজাব (পুরুষ: গেঞ্জি-লুঙ্গি),scripts/ui/CustomizePanel.gd:26
+line_99a7215897,line_99a7215897.ogg,,গড়ন ও শক্তি,scripts/ui/CustomizePanel.gd:259
+line_fa1db6093a,line_fa1db6093a.ogg,,ভোর,scripts/ui/MainMenu.gd:8
+line_4f591c4b63,line_4f591c4b63.ogg,,সন্ধ্যা,scripts/ui/MainMenu.gd:8
+line_5800838a73,line_5800838a73.ogg,,ঝড়ের রাত,scripts/ui/MainMenu.gd:8
+line_2a997bb3df,line_2a997bb3df.ogg,,গোধূলি,scripts/ui/MainMenu.gd:8
+line_be126a171d,line_be126a171d.ogg,,গুঁড়ি গুঁড়ি বৃষ্টি,scripts/ui/MainMenu.gd:10
+line_9dbfa38d7b,line_9dbfa38d7b.ogg,,পরিষ্কার আকাশ,scripts/ui/MainMenu.gd:10
+line_a2ef108b66,line_a2ef108b66.ogg,,"নায়ক: ফ্রিল্যান্সার (নামহীন এক উদ্ধারকর্মী)
+আলফা টিম, খলনায়ক ও জিম্মি: কাল্পনিক চরিত্র — এআই/প্রসিডিউরাল মুখ
+খলনায়ক: কালো ছায়া চক্র (কাল্পনিক)
+
+",scripts/ui/MainMenu.gd:313
+line_e136866a1c,line_e136866a1c.ogg,,"ইঞ্জিন: Godot Engine 4.3 (MIT লাইসেন্স)
+ফন্ট: Noto Sans ও Noto Sans Bengali (SIL Open Font License)
+",scripts/ui/MainMenu.gd:314
+line_5e274fa82b,line_5e274fa82b.ogg,,"শব্দ ও সংগীত: প্রোগ্রাম দিয়ে তৈরি (tools/generate_audio.py)
+
+",scripts/ui/MainMenu.gd:315
+line_e4f9d686e1,line_e4f9d686e1.ogg,,"এই গল্প, চরিত্র ও সংগঠন সম্পূর্ণ কাল্পনিক। বাস্তব কোনো ব্যক্তি বা সংগঠনের সাথে মিল কাকতালীয়।",scripts/ui/MainMenu.gd:316
+line_db8fa0655c,line_db8fa0655c.ogg,,বিডি-০৮ অ্যাসল্ট রাইফেল,scripts/weapons/WeaponData.gd:7
+line_e36e526e8a,line_e36e526e8a.ogg,,বিডি-০৮,scripts/weapons/WeaponData.gd:7
+line_b6b629880f,line_b6b629880f.ogg,,টাইপ-৫৪ পিস্তল,scripts/weapons/WeaponData.gd:12
+line_9056c195ab,line_9056c195ab.ogg,,পিস্তল,scripts/weapons/WeaponData.gd:12
+line_1d4c9926ae,line_1d4c9926ae.ogg,,টাইপ-৫৬ রাইফেল,scripts/weapons/WeaponData.gd:17
+line_11d5f06ada,line_11d5f06ada.ogg,,টাইপ-৫৬,scripts/weapons/WeaponData.gd:17
+line_33e533e17d,line_33e533e17d.ogg,,স্নাইপার রাইফেল,scripts/weapons/WeaponData.gd:22
+line_1ec3d14790,line_1ec3d14790.ogg,,স্নাইপার,scripts/weapons/WeaponData.gd:22
+line_301a010bf4,line_301a010bf4.ogg,,৭.৬২×৩৯,scripts/weapons/WeaponData.gd:29
+line_2ee7d941fc,line_2ee7d941fc.ogg,,৭.৬২×২৫,scripts/weapons/WeaponData.gd:29
+line_ea828426dd,line_ea828426dd.ogg,,টাকা নেই — জিম্মিদের নিরাপদে উদ্ধার করলে তাঁরা টাকা দেন।,scripts/world/HouseProps.gd:249
+line_42f92ee781,line_42f92ee781.ogg,,"লাফ দিন, ফ্রিল্যান্সার! Space চেপে প্যারাস্যুট খুলুন — দল আপনার পেছনেই নামছে।",scripts/world/Mission.gd:218
+line_34eeb20412,line_34eeb20412.ogg,,বিশাল মূল্যছাড়!,scripts/world/Mission.gd:429
+line_082c74e4eb,line_082c74e4eb.ogg,,নিরাপদ সড়ক চাই,scripts/world/Mission.gd:429
+line_9982bf62d8,line_9982bf62d8.ogg,,"পরিচ্ছন্ন ঢাকা, সুন্দর ঢাকা",scripts/world/Mission.gd:429
+line_0fb47128f8,line_0fb47128f8.ogg,,মোবাইল সার্ভিসিং সেন্টার,scripts/world/Mission.gd:429
+line_94a1d6c8af,line_94a1d6c8af.ogg,,কম্পিউটার প্রশিক্ষণ,scripts/world/Mission.gd:429
+line_0b461eb0d9,line_0b461eb0d9.ogg,,জরুরি নিয়োগ বিজ্ঞপ্তি,scripts/world/Mission.gd:429
+line_2c22e30a42,line_2c22e30a42.ogg,,হারানো বিজ্ঞপ্তি,scripts/world/Mission.gd:430
+line_6d2312bdab,line_6d2312bdab.ogg,,বইমেলা — সবাই আমন্ত্রিত,scripts/world/Mission.gd:430
+line_04834bc858,line_04834bc858.ogg,,বিনামূল্যে চক্ষু শিবির,scripts/world/Mission.gd:430
+line_0e5729d2ca,,TTS only (filled in at run time),উদ্ধার যান %s দিকে (~%s মি),scripts/world/Mission.gd:582
+line_d98f968276,,TTS only (filled in at run time),শত্রু প্রায় %s জন — কথা শুনলে ছুটে আসে,scripts/world/Mission.gd:584
+line_02bb7bb1d5,line_02bb7bb1d5.ogg,,লাল রুমালের ভিলেনরা জিম্মিদের ফিরিয়ে আনে,scripts/world/Mission.gd:586
+line_48bccfaf2d,line_48bccfaf2d.ogg,,"চারটি সূত্র পাওয়া গেছে — পরের লক্ষ্য এখন পরিষ্কার, ফ্রিল্যান্সার।",scripts/world/Mission.gd:610
+line_fb7d73299f,,TTS only (filled in at run time),"%s, এদিকে আসুন — জিম্মির কাছে।",scripts/world/Mission.gd:646
+line_cb2f900d11,line_cb2f900d11.ogg,,"আসছি, স্যার!",scripts/world/Mission.gd:647
+line_6da88d9054,line_6da88d9054.ogg,,"ঠিক আছে, ফিরে আসুন",scripts/world/Mission.gd:687
+line_f6ecc15668,line_f6ecc15668.ogg,,নামিয়ে রাখুন,scripts/world/Mission.gd:687
+line_0918671e25,line_0918671e25.ogg,,আমার সঙ্গে আসুন,scripts/world/Mission.gd:687
+line_74b0249510,line_74b0249510.ogg,,এখানে অপেক্ষা করুন,scripts/world/Mission.gd:687
+line_c3438a74e3,line_c3438a74e3.ogg,,উদ্ধার যানে নিয়ে যান,scripts/world/Mission.gd:687
+line_6d6a5d701b,,TTS only (filled in at run time),"%s, বন্দিকে ধরে রাখুন।",scripts/world/Mission.gd:717
+line_0213d50e70,line_0213d50e70.ogg,,"হেলিকপ্টার রওনা দিয়েছে, ছাদে নামবে। নেতাকে ছাদে নিয়ে যান।",scripts/world/Mission.gd:878
+line_d060c3515f,line_d060c3515f.ogg,,"নেতা হেলিকপ্টারে উঠেছে। দারুণ কাজ, ফ্রিল্যান্সার!",scripts/world/Mission.gd:907
+line_4efb73813d,,TTS only (filled in at run time),একজন আলফা নারী সদস্য প্যারাস্যুটে নামছেন (বাকি %s),scripts/world/Mission.gd:938
+line_aa1e8b44a8,line_aa1e8b44a8.ogg,,"কাঁধে যাঁরা আছেন, তাঁদের উদ্ধার যানে নিয়ে যান!",scripts/world/Mission.gd:949
+line_cc7d74993a,line_cc7d74993a.ogg,,সাবধান! ওদের বাড়তি দল আসছে।,scripts/world/Mission.gd:1091
+line_84ea790af9,line_84ea790af9.ogg,,শকুন,scripts/world/Mission.gd:1098
+line_cd2130854b,line_cd2130854b.ogg,,আমার লোকেরা! ওকে শেষ করো!,scripts/world/Mission.gd:1098
+line_a3e3d715f3,line_a3e3d715f3.ogg,,"তুমি আমাকে থামাতে পারবে না, ফ্রিল্যান্সার!",scripts/world/Mission.gd:1098
+line_36e832da07,,TTS only (filled in at run time),আমরা %s-কে হারিয়েছি!,scripts/world/Mission.gd:1135
+line_063314542d,line_063314542d.ogg,,"নতুন আলফা সদস্য হাজির, স্যার!",scripts/world/Mission.gd:1152
+line_d30e3dde20,line_d30e3dde20.ogg,,ভিআইপি,scripts/world/Mission.gd:1304
+line_5251ae2a23,line_5251ae2a23.ogg,,ধন্যবাদ! আমি আপনার পেছনেই থাকব।,scripts/world/Mission.gd:1304
+line_7ae0e339b7,line_7ae0e339b7.ogg,,"ওরা বলছিল, অস্ত্রের আসল চালান আজ রাতেই পশ্চিম ঘাটের পুলিশ স্পিডবোট ছিনতাই করে নদী পার করবে! এখনই পশ্চিম ঘাটে যান!",scripts/world/MissionLayouts.gd:179
+line_cb2e25926f,line_cb2e25926f.ogg,,চালান পশ্চিম ঘাট দিয়ে যাবে — স্পিডবোট রক্ষা করুন,scripts/world/MissionLayouts.gd:179
+line_6f6e68bb3e,line_6f6e68bb3e.ogg,,সদর দপ্তর,scripts/world/MissionLayouts.gd:185
+line_c264cab123,line_c264cab123.ogg,,"ফ্রিল্যান্সার, বৃষ্টির শব্দ তোমার পায়ের আওয়াজ ঢেকে দেবে। বসে বসে এগোও, আলোর নিচে দাঁড়াবে না।",scripts/world/MissionLayouts.gd:185
+line_9febce8d69,line_9febce8d69.ogg,,পূর্ব দিকের মরিচা ধরা গুদামটাই ওদের ঘাঁটি। নথিগুলো একটা কাঠের বাক্সের ওপর আছে।,scripts/world/MissionLayouts.gd:187
+line_08d9033983,line_08d9033983.ogg,,"খবর এসেছে, ওরা এক মেয়েকে টিনের ঘরে হাত-মুখ বেঁধে রেখেছে। তাকে ছাড়া ফিরবে না।",scripts/world/MissionLayouts.gd:189
+line_ce3d2aba46,line_ce3d2aba46.ogg,,"পূর্ব দিকের রাস্তায় ওরা গাড়িবোমা রেখে গেছে! পশ্চিমের উদ্ধার গাড়ি দিয়েই বের হতে হবে — ছাদে স্নাইপার আছে, বাসের আড়াল নিন।",scripts/world/MissionLayouts.gd:276
+line_20cb001e12,line_20cb001e12.ogg,,পূর্বের রাস্তায় গাড়িবোমা — পশ্চিমের উদ্ধার গাড়ি ব্যবহার করুন,scripts/world/MissionLayouts.gd:276
+line_e943876842,line_e943876842.ogg,,তিনটি ছাদে স্নাইপার! লাল লেজার দেখলেই গাড়ি বা দেয়ালের আড়ালে যাও।,scripts/world/MissionLayouts.gd:281
+line_f896b41e6f,line_f896b41e6f.ogg,,আলফা,scripts/world/MissionLayouts.gd:284
+line_953558634c,line_953558634c.ogg,,"স্যার, ভিআইপিকে আমাদের মাঝখানে রাখুন — রাস্তায় বাসের আড়াল ব্যবহার করুন!",scripts/world/MissionLayouts.gd:284
+line_973d7876fb,line_973d7876fb.ogg,,উত্তরের সিঁড়িঘরে ওরা মাইন পেতেছে! দক্ষিণ দিক দিয়ে নেমে পুলিশ কর্ডনে চলুন।,scripts/world/MissionLayouts.gd:370
+line_18479dc850,line_18479dc850.ogg,,উত্তরের সিঁড়িতে মাইন — দক্ষিণের পুলিশ কর্ডনে যান,scripts/world/MissionLayouts.gd:370
+line_51e59669a5,line_51e59669a5.ogg,,কুরিয়ার ছাদে আছে! তোমাকে দেখলেই সে ছাদ থেকে ছাদে পালাবে।,scripts/world/MissionLayouts.gd:376
+line_6726c97c29,line_6726c97c29.ogg,,সে পালিয়ে গেলে সব তথ্য হারাব — যেকোনো মূল্যে থামাও!,scripts/world/MissionLayouts.gd:378
+line_31019c635a,line_31019c635a.ogg,,"ওরা উত্তর ফটক পাহারা দিচ্ছে, অন্ধকারে বন্দুক নিয়ে বসে আছে। দক্ষিণ ফটক দিয়ে বের হতে হবে!",scripts/world/MissionLayouts.gd:465
+line_93b7f79ae1,line_93b7f79ae1.ogg,,উত্তর ফটকে পাহারা — দক্ষিণ ফটক দিয়ে বের হন,scripts/world/MissionLayouts.gd:465
+line_875cb492ff,line_875cb492ff.ogg,,"কার্জন হল, কলা ভবন ও গ্রন্থাগারের ল্যাপটপ থেকে তথ্য সংগ্রহ করুন",scripts/world/MissionLayouts.gd:470
+line_d3f949f3aa,line_d3f949f3aa.ogg,,"কুয়াশায় ওরা তোমাকে দূর থেকে দেখবে না, তুমিও ওদের দেখবে না। প্রতিটি ভবনের ভেতরে একটা করে ল্যাপটপ।",scripts/world/MissionLayouts.gd:471
+line_aaff02c9e7,line_aaff02c9e7.ogg,,সেতুর নিচের নৌকায় ওদের লোক রিমোট নিয়ে বসে আছে — ভ্যানটা উড়িয়ে দিতে চায়! দ্রুত পূর্ব প্রান্তে চলুন!,scripts/world/MissionLayouts.gd:550
+line_4f994a1f09,line_4f994a1f09.ogg,,নৌকায় রিমোট বোমা — দ্রুত পূর্ব প্রান্তে যান,scripts/world/MissionLayouts.gd:550
+line_8173b33141,line_8173b33141.ogg,,ভ্যান কেবল তখনই চলবে যখন তুমি কাছে থাকবে আর সামনে শত্রু থাকবে না। প্রতিটা অ্যামবুশ পরিষ্কার করো।,scripts/world/MissionLayouts.gd:556
+line_36a8532900,line_36a8532900.ogg,,ওরা দক্ষিণ দেয়ালের ভাঙা অংশ দিয়ে ঢুকবে! পরী বিবির মাজারের চত্বর থেকেই ওদের আটকানো যাবে।,scripts/world/MissionLayouts.gd:648
+line_b0c23333ed,line_b0c23333ed.ogg,,শত্রু দক্ষিণ দেয়ালের ভাঙা অংশ দিয়ে ঢুকবে — মাজারের চত্বরে অবস্থান নিন,scripts/world/MissionLayouts.gd:648
+line_e423b737b9,line_e423b737b9.ogg,,কয়েকজন অনুপ্রবেশকারী আগেই কেল্লায় ঢুকে একজনকে আটকে রেখেছে। আগে তাকে উদ্ধার করো।,scripts/world/MissionLayouts.gd:653
+line_b0427fd6e6,line_b0427fd6e6.ogg,,"চত্বরে বালির বস্তা আর গুলির বাক্স রাখা আছে, স্যার। H চাপলে আমরা অবস্থান ধরে রাখব।",scripts/world/MissionLayouts.gd:655
+line_4de629fc22,line_4de629fc22.ogg,,আপনাদের সোর্স উত্তর-পশ্চিম কোণের চায়ের দোকানে লুকিয়ে আছেন। ওরা তাঁকে খুঁজছে — তাড়াতাড়ি যান!,scripts/world/MissionLayouts.gd:737
+line_f71c459e27,line_f71c459e27.ogg,,সোর্স উত্তর-পশ্চিম কোণের চায়ের দোকানে,scripts/world/MissionLayouts.gd:737
+line_a13a755624,line_a13a755624.ogg,,"বাজার ভর্তি মানুষ। লক্ষ্য নিশ্চিত না হয়ে গুলি চালাবে না, ফ্রিল্যান্সার।",scripts/world/MissionLayouts.gd:744
+line_16a0d38fec,line_16a0d38fec.ogg,,"প্রধান ফটকে নতুন ক্যামেরা বসিয়েছে ওরা। বেড়ার ফাঁক দিয়েই বের হতে হবে, পাহারার শিফট বদলানোর আগেই!",scripts/world/MissionLayouts.gd:824
+line_aa1cd45bcb,line_aa1cd45bcb.ogg,,প্রধান ফটকে ক্যামেরা — বেড়ার ফাঁক দিয়ে বের হন,scripts/world/MissionLayouts.gd:824
+line_30ad1a8433,line_30ad1a8433.ogg,,পরিধির বেড়ার কমলা চিহ্নিত অংশটি কেটে ভেতরে ঢুকুন,scripts/world/MissionLayouts.gd:829
+line_c461ae17d8,line_c461ae17d8.ogg,,"ভোর হচ্ছে। প্রহরীদের পালা বদলের আগেই ভেতরে ঢুকে কাজ শেষ করো। তুমি একা, সাবধান।",scripts/world/MissionLayouts.gd:830
+line_f02177ba9d,line_f02177ba9d.ogg,,কার্গো বিমানের পাশে গিয়ে চালানে ট্র্যাকার বসান,scripts/world/MissionLayouts.gd:832
+line_25bca5c51c,line_25bca5c51c.ogg,,ওদের একজনের কাছে বোমার রিমোট আছে! সবাইকে শেষ না করলে ওরা মলটা উড়িয়ে দেবে!,scripts/world/MissionLayouts.gd:929
+line_e87fb66850,line_e87fb66850.ogg,,বোমার রিমোট এক সন্ত্রাসীর কাছে — সবাইকে নির্মূল করুন,scripts/world/MissionLayouts.gd:929
+line_3fa6c28646,line_3fa6c28646.ogg,,"চারজন জিম্মি — নিচতলা, দোতলা, ফুড কোর্ট আর সিনেপ্লেক্সের সামনে। আলফা টিম মুক্ত জিম্মিদের কাঁধে তুলে নেবে।",scripts/world/MissionLayouts.gd:934
+line_0d778528fb,line_0d778528fb.ogg,,"সরদারের আসল অস্ত্রের মজুদ জাহাজের সামনের হোল্ডে, কন্টেইনারে নয়! সেখানেই বিস্ফোরক বসান।",scripts/world/MissionLayouts.gd:1014
+line_9bf2b2f530,line_9bf2b2f530.ogg,,অস্ত্রের মজুদ সামনের হোল্ডে — সেখানে বিস্ফোরক বসান,scripts/world/MissionLayouts.gd:1014
+line_19e8d3c8c5,line_19e8d3c8c5.ogg,,"ঝড়ে ওদের কানে কিছু যাবে না, কিন্তু বিদ্যুৎ চমকালে তোমাকে দেখে ফেলবে। দ্রুত এগোও।",scripts/world/MissionLayouts.gd:1020
+line_0fea4fc9c7,line_0fea4fc9c7.ogg,,অস্ত্রের চালানে টাইম-বোমা বসান,scripts/world/MissionLayouts.gd:1024
+line_f5a48222a8,line_f5a48222a8.ogg,,বিস্ফোরণের আগেই জিম্মিদের নিয়ে জেটিতে ফিরে আসুন,scripts/world/MissionLayouts.gd:1026
+line_1d097ba21e,line_1d097ba21e.ogg,,"বোমা চালু! জিম্মিদের কাঁধে তুলে নিয়েছি — জেটির দিকে দৌড়ান, স্যার!",scripts/world/MissionLayouts.gd:1027
+line_f026aad45f,line_f026aad45f.ogg,,"শকুনের লোকেরা উত্তরের সিঁড়িতে ওত পেতে আছে! পশ্চিমের হেলিকপ্টার পয়েন্টে যান, সিঁড়ি এড়িয়ে চলুন!",scripts/world/MissionLayouts.gd:1109
+line_999cbba3ad,line_999cbba3ad.ogg,,উত্তরের সিঁড়ি এড়িয়ে পশ্চিমের হেলিকপ্টার পয়েন্টে যান,scripts/world/MissionLayouts.gd:1109
+line_400ce5cb11,line_400ce5cb11.ogg,,"শকুন দক্ষিণ প্লাজায় চারজন জিম্মিকে নিয়ে অপেক্ষা করছে। এটাই শেষ সুযোগ, ফ্রিল্যান্সার।",scripts/world/MissionLayouts.gd:1115
+line_bc733c245a,line_bc733c245a.ogg,,ফ্রিল্যান্সার! এতদূর এসেছ? এই প্লাজাই হবে তোমার কবর!,scripts/world/MissionLayouts.gd:1117
+line_cf0a2ed1ad,line_cf0a2ed1ad.ogg,,জিম্মিদের নিয়ে পশ্চিম লনের হেলিকপ্টারে পৌঁছান,scripts/world/MissionLayouts.gd:1120
+line_f7d6db9d45,line_f7d6db9d45.ogg,,শকুনের লোকেরা চারদিক থেকে আসছে! হেলিকপ্টার অপেক্ষা করছে — জিম্মিদের নিয়ে দ্রুত চলে এসো!,scripts/world/MissionLayouts.gd:1121
+line_06298cbe11,line_06298cbe11.ogg,,"গুলির বাক্স: +৬০ রাইফেল, +১৬ পিস্তল",scripts/world/Pickup.gd:79
+line_e1fcd339e9,line_e1fcd339e9.ogg,,মেডিকিট: +৫০ স্বাস্থ্য,scripts/world/Pickup.gd:84
+line_695a92b068,line_695a92b068.ogg,,টাইপ-৫৬ রাইফেল সংগ্রহ করা হয়েছে (৩ চাপুন),scripts/world/Pickup.gd:92
+line_487d5d7975,line_487d5d7975.ogg,,স্নাইপার রাইফেল সংগ্রহ করা হয়েছে — ডান ক্লিকে স্কোপ,scripts/world/Pickup.gd:100
+line_42f0d23825,line_42f0d23825.ogg,,রাহেলা খালা,scripts/world/Resident.gd:23
+line_81cddce522,line_81cddce522.ogg,,নাসিমা আন্টি,scripts/world/Resident.gd:23
+line_6faec59aa9,line_6faec59aa9.ogg,,জোবেদা খালা,scripts/world/Resident.gd:23
+line_cb9e57b15e,line_cb9e57b15e.ogg,,শাহানা আপা,scripts/world/Resident.gd:23
+line_d598029378,line_d598029378.ogg,,করিম চাচা,scripts/world/Resident.gd:24
+line_4a43eb88e5,line_4a43eb88e5.ogg,,মজিদ সাহেব,scripts/world/Resident.gd:24
+line_137e66d27c,line_137e66d27c.ogg,,হাবিব মামা,scripts/world/Resident.gd:24
+line_d34f6c2cd7,line_d34f6c2cd7.ogg,,রহমান চাচা,scripts/world/Resident.gd:24
+line_fefd382466,line_fefd382466.ogg,,"ওপরে যাবেন? আগে একটা প্রশ্নের উত্তর দিন, বাবা — ",scripts/world/Resident.gd:100
+line_dd73130042,line_dd73130042.ogg,,"একদম ঠিক! যান, গেট খুলে দিচ্ছি — সাবধানে উঠবেন, ওপরে ওরা আছে।",scripts/world/Resident.gd:114
+line_ea9e04f247,,TTS only (filled in at run time),"হলো না, বাবা। সঠিক উত্তর: %s। একটু পরে আরেকটা প্রশ্ন করব।",scripts/world/Resident.gd:120
+line_a76dfc091d,line_a76dfc091d.ogg,,একা চাপতে সময় লাগে — একজন হাতল চাপলে আরেকজন বোতল ধরে। কাছে কোনো আলফা সদস্য থাকলে তিনি আসবেন।,scripts/world/WaterSource.gd:122
+line_8ee183bd14,line_8ee183bd14.ogg,,"আমি হাতল চাপছি, স্যার — আপনি বোতল ধরুন।",scripts/world/WaterSource.gd:152
+line_ee867373eb,line_ee867373eb.ogg,,হেডফোন চালু — বৃষ্টি ও রাস্তার শব্দ অর্ধেক,scripts/autoload/AudioManager.gd:212
+line_0edb02fbe8,line_0edb02fbe8.ogg,,হেডফোন বন্ধ,scripts/autoload/AudioManager.gd:212
+line_f6b3e5d528,line_f6b3e5d528.ogg,,নিঃশব্দ উদ্ধার: ঢাকা,scripts/autoload/Game.gd:45
+line_aff626c291,line_aff626c291.ogg,,ঢাকার ছায়াযুদ্ধ,scripts/autoload/Game.gd:46
+line_62dde3ecb0,line_62dde3ecb0.ogg,,শুরু করুন,scripts/autoload/Game.gd:47
+line_b8734c05ea,line_b8734c05ea.ogg,,চালিয়ে যান,scripts/autoload/Game.gd:48
+line_2d92a0ce91,line_2d92a0ce91.ogg,,মিশন নির্বাচন,scripts/autoload/Game.gd:49
+line_f5eea6cef8,line_f5eea6cef8.ogg,,সেটিংস,scripts/autoload/Game.gd:50
+line_3ecec718f8,line_3ecec718f8.ogg,,প্রস্থান,scripts/autoload/Game.gd:51
+line_938ee17406,line_938ee17406.ogg,,ফিরে যান,scripts/autoload/Game.gd:52
+line_c954b2f52b,line_c954b2f52b.ogg,,কৃতজ্ঞতা,scripts/autoload/Game.gd:53
+line_899fa2c4f9,line_899fa2c4f9.ogg,,মিশন শুরু,scripts/autoload/Game.gd:54
+line_59f42cb792,line_59f42cb792.ogg,,তালাবদ্ধ,scripts/autoload/Game.gd:55
+line_4004899470,line_4004899470.ogg,,লোড হচ্ছে…,scripts/autoload/Game.gd:56
+line_4c28d98d0d,line_4c28d98d0d.ogg,,পথ নির্ণয় তৈরি হচ্ছে…,scripts/autoload/Game.gd:57
+line_92e2c2df49,line_92e2c2df49.ogg,,লক্ষ্য,scripts/autoload/Game.gd:58
+line_951e5422ca,line_951e5422ca.ogg,,স্বাস্থ্য,scripts/autoload/Game.gd:59
+line_b1994d0b64,line_b1994d0b64.ogg,,গুলি,scripts/autoload/Game.gd:60
+line_f5dc1703bf,line_f5dc1703bf.ogg,,রিলোড হচ্ছে…,scripts/autoload/Game.gd:61
+line_bbf1e3b698,line_bbf1e3b698.ogg,,গুলি শেষ!,scripts/autoload/Game.gd:62
+line_8e2ba6b828,line_8e2ba6b828.ogg,,বিরতি,scripts/autoload/Game.gd:63
+line_3d54d281a1,line_3d54d281a1.ogg,,আবার শুরু,scripts/autoload/Game.gd:65
+line_f9a1891f65,line_f9a1891f65.ogg,,প্রধান মেনু,scripts/autoload/Game.gd:66
+line_e60a074a4a,line_e60a074a4a.ogg,,পরবর্তী মিশন,scripts/autoload/Game.gd:67
+line_86dabc9480,line_86dabc9480.ogg,,আবার চেষ্টা,scripts/autoload/Game.gd:68
+line_5b85fd7204,line_5b85fd7204.ogg,,মিশন সফল,scripts/autoload/Game.gd:69
+line_c2ae90fea0,line_c2ae90fea0.ogg,,মিশন ব্যর্থ,scripts/autoload/Game.gd:70
+line_2a2cb0b784,line_2a2cb0b784.ogg,,আপনি নিহত হয়েছেন,scripts/autoload/Game.gd:71
+line_d190457c1b,line_d190457c1b.ogg,,শত্রু আপনাকে দেখে ফেলেছে!,scripts/autoload/Game.gd:72
+line_5eceb2b044,line_5eceb2b044.ogg,,সতর্ক সংকেত বেজে উঠেছে!,scripts/autoload/Game.gd:73
+line_a7f2cef5f8,line_a7f2cef5f8.ogg,,মূল শব্দ,scripts/autoload/Game.gd:74
+line_db4e498903,line_db4e498903.ogg,,সংগীত,scripts/autoload/Game.gd:75
+line_5b505f32f1,line_5b505f32f1.ogg,,শব্দ প্রভাব,scripts/autoload/Game.gd:76
+line_90560c37e9,line_90560c37e9.ogg,,মাউস সংবেদনশীলতা,scripts/autoload/Game.gd:77
+line_35395b81d3,line_35395b81d3.ogg,,গ্রাফিক্স মান,scripts/autoload/Game.gd:78
+line_321f740797,line_321f740797.ogg,,নিম্ন (দুর্বল ল্যাপটপ),scripts/autoload/Game.gd:79
+line_06454db3f6,line_06454db3f6.ogg,,মাঝারি,scripts/autoload/Game.gd:80
+line_15b445b62c,line_15b445b62c.ogg,,উচ্চ,scripts/autoload/Game.gd:81
+line_b5ab8e8f87,line_b5ab8e8f87.ogg,,পূর্ণ পর্দা,scripts/autoload/Game.gd:82
+line_918131e116,line_918131e116.ogg,,বাংলা সাবটাইটেল,scripts/autoload/Game.gd:83
+line_81a133e438,line_81a133e438.ogg,,কণ্ঠস্বর (টেক্সট-টু-স্পিচ),scripts/autoload/Game.gd:84
+line_bd4a97d6be,line_bd4a97d6be.ogg,,মাউস উল্টো (Y),scripts/autoload/Game.gd:85
+line_8f98ad6a5a,line_8f98ad6a5a.ogg,,দৃষ্টিক্ষেত্র,scripts/autoload/Game.gd:86
+line_e88bf7c6f4,line_e88bf7c6f4.ogg,,কাঠিন্য,scripts/autoload/Game.gd:87
+line_4d7272a961,line_4d7272a961.ogg,,সহজ,scripts/autoload/Game.gd:88
+line_c2871269d8,line_c2871269d8.ogg,,কঠিন,scripts/autoload/Game.gd:90
+line_f139cf36e8,line_f139cf36e8.ogg,,Ctrl চাপলে বসা স্থায়ী,scripts/autoload/Game.gd:91
+line_a39a4bc842,line_a39a4bc842.ogg,,নিহত শত্রু,scripts/autoload/Game.gd:92
+line_bde1afbc4f,line_bde1afbc4f.ogg,,নির্ভুলতা,scripts/autoload/Game.gd:93
+line_5fe51709ca,line_5fe51709ca.ogg,,হেডশট,scripts/autoload/Game.gd:94
+line_61938b6597,line_61938b6597.ogg,,সময়,scripts/autoload/Game.gd:95
+line_0ca7a1f13b,line_0ca7a1f13b.ogg,,নিহত সাধারণ মানুষ,scripts/autoload/Game.gd:96
+line_1d3c690acf,line_1d3c690acf.ogg,,অদৃশ্য অভিযান,scripts/autoload/Game.gd:97
+line_6c5b3fda54,line_6c5b3fda54.ogg,,হ্যাঁ,scripts/autoload/Game.gd:98
+line_3efe86b1bc,line_3efe86b1bc.ogg,,না,scripts/autoload/Game.gd:99
+line_b1dee67249,line_b1dee67249.ogg,,আলফা টিম: আমাকে অনুসরণ করো!,scripts/autoload/Game.gd:100
+line_97cfc8f7e3,line_97cfc8f7e3.ogg,,আলফা টিম: এখানেই অবস্থান ধরে রাখো!,scripts/autoload/Game.gd:101
+line_819ff339f1,line_819ff339f1.ogg,,"স্যার, আপনার জন্য গুলির বাক্স রাখলাম!",scripts/autoload/Game.gd:102
+line_846a2d14b7,line_846a2d14b7.ogg,,"সাবধান স্যার, আমরা আপনার দলের!",scripts/autoload/Game.gd:103
+line_345ceb3a9b,line_345ceb3a9b.ogg,,নিয়ন্ত্রণ: WASD চলাচল • Shift দৌড় • Ctrl বসা • C/Q উঁকি • বাম ক্লিক গুলি • ডান ক্লিক নিশানা • ১/২/৩ অস্ত্র • R রিলোড • E কাজ / টেপ • F পানি দিন • G কাঁধে তুলুন / নামান • X বাঁধন • J আলফাকে ডাকুন • B দুরবিন • T থার্মাল • H দলকে আদেশ • K কাঁধে-নেওয়া জিম্মিকে উদ্ধার যানে পাঠান • L আলফা নারী সদস্য (প্যারাস্যুট) • Z শুয়ে পড়ুন • ৪ গ্রেনেড • ৫ মলোটভ • ৬ টাইম বোমা • N হেডফোন • Y খাবার খান / জিম্মিকে দিন • V ক্যামেরা • Tab লক্ষ্য • Esc বিরতি,scripts/autoload/Game.gd:107
+line_50dc8d07ef,line_50dc8d07ef.ogg,,"নিজের ছবি যোগ করতে: গেমের .exe ফাইলের পাশে faces নামের ফোল্ডারে hero_*.jpg (ফ্রিল্যান্সার), profile_*.jpg (খলনায়ক), other_*.jpg (আলফা টিম) রাখুন। জিম্মিদের মুখ 'চরিত্র সাজান' মেনুতে সাজান।",scripts/autoload/Game.gd:108
+line_14c028f744,line_14c028f744.ogg,,ঢাকা নিরাপদ,scripts/autoload/Game.gd:109
+line_d174a27567,line_d174a27567.ogg,,"শকুনের পতন হয়েছে, কালো ছায়া চক্র ভেঙে পড়েছে। ধন্যবাদ, ফ্রিল্যান্সার।",scripts/autoload/Game.gd:110
+line_b962338b3d,line_b962338b3d.ogg,,সদরঘাটের অন্ধকার,scripts/autoload/Game.gd:115
+line_4593d90f16,line_4593d90f16.ogg,,পুরান ঢাকা — সদরঘাট ডকইয়ার্ড,scripts/autoload/Game.gd:116
+line_bacbf0f71c,line_bacbf0f71c.ogg,,"গোয়েন্দা সূত্রে খবর এসেছে, 'কালো ছায়া' চক্র সদরঘাটের একটি গুদাম দিয়ে অবৈধ অস্ত্র পাচার করছে। মুষলধারে বৃষ্টির আড়ালে পুরান ঢাকার সরু গলি পেরিয়ে নিঃশব্দে গুদামে ঢুকুন, চালানের নথি উদ্ধার করুন এবং পশ্চিম ঘাটের স্পিডবোটে ফিরে আসুন। ধরা পড়লে শত্রুর বাড়তি দল চলে আসবে। আলফা টিম শুরুর জায়গায় অপেক্ষা করবে — H চাপলে তারা আপনার সঙ্গে আসবে।",scripts/autoload/Game.gd:119
+line_671877d444,line_671877d444.ogg,,কূটনৈতিক অঞ্চল,scripts/autoload/Game.gd:122
+line_8d25058764,line_8d25058764.ogg,,গুলশান-২,scripts/autoload/Game.gd:123
+line_7163ff44c0,line_7163ff44c0.ogg,,গুলশান-২ কূটনৈতিক এলাকায় একজন বিদেশি কূটনীতিক আটকা পড়েছেন। কালো ছায়ার স্নাইপাররা উঁচু ভবনের ছাদে অবস্থান নিয়েছে। দূতাবাসে পৌঁছে ভিআইপিকে উদ্ধার করুন এবং গাড়ি ও বাসের আড়াল নিয়ে তাঁকে পশ্চিমের উদ্ধার গাড়ি পর্যন্ত নিয়ে যান। লাল লেজার দেখলেই আড়াল নিন!,scripts/autoload/Game.gd:126
+line_9943fa08bc,line_9943fa08bc.ogg,,ছাদে ধাওয়া,scripts/autoload/Game.gd:129
+line_0fc07ed75b,line_0fc07ed75b.ogg,,মতিঝিল বাণিজ্যিক এলাকা,scripts/autoload/Game.gd:130
+line_086c25f12a,line_086c25f12a.ogg,,"মতিঝিলে অফিস ছুটির ভিড়। চক্রের এক কুরিয়ার ব্যাংকের গোপন লেনদেনের তথ্য নিয়ে পালানোর অপেক্ষায়। সিঁড়ি দিয়ে ভবনের ছাদে উঠুন, ছাদ থেকে ছাদে তাকে ধাওয়া করুন এবং পালানোর আগেই থামান। নিচের রাস্তায় সাধারণ মানুষ আছে — সাবধানে গুলি চালান।",scripts/autoload/Game.gd:133
+line_4fae0a407e,line_4fae0a407e.ogg,,কুয়াশার ক্যাম্পাস,scripts/autoload/Game.gd:136
+line_47fb7de0c8,line_47fb7de0c8.ogg,,ঢাকা বিশ্ববিদ্যালয়,scripts/autoload/Game.gd:137
+line_3d4869fe9d,line_3d4869fe9d.ogg,,শীতের ঘন কুয়াশায় ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাস। কালো ছায়ার লোকেরা তিনটি ভবনে লুকানো ল্যাপটপে তাদের পরিকল্পনা রেখেছে। কুয়াশার সুযোগ নিয়ে তিনটি ল্যাপটপ থেকেই তথ্য সংগ্রহ করুন এবং ক্যাম্পাসের ফটকে ফিরে আসুন।,scripts/autoload/Game.gd:140
+line_d0fd147ea7,line_d0fd147ea7.ogg,,সূর্যাস্তের প্রহরা,scripts/autoload/Game.gd:143
+line_4b48cfc886,line_4b48cfc886.ogg,,হাতিরঝিল সেতু,scripts/autoload/Game.gd:144
+line_4ce9ee4566,line_4ce9ee4566.ogg,,উদ্ধার করা প্রমাণ নিয়ে একটি পুলিশ ভ্যান হাতিরঝিল সেতু পার হবে। সূর্যাস্তের সময় চক্রটি পথে অ্যামবুশ পেতেছে। ভ্যানের কাছাকাছি থাকুন — আপনি দূরে থাকলে বা সামনে শত্রু থাকলে ভ্যান থেমে যাবে। ভ্যান ধ্বংস হলে মিশন ব্যর্থ।,scripts/autoload/Game.gd:147
+line_9db864f5f4,line_9db864f5f4.ogg,,কেল্লার প্রতিরক্ষা,scripts/autoload/Game.gd:150
+line_0457649552,line_0457649552.ogg,,লালবাগ কেল্লা,scripts/autoload/Game.gd:151
+line_4a46fc2022,line_4a46fc2022.ogg,,প্রমাণগুলো লালবাগ কেল্লার অস্থায়ী নিরাপদ কক্ষে রাখা হয়েছে। রাতের অন্ধকারে কালো ছায়া কেল্লা আক্রমণ করবে। পরী বিবির মাজারের সামনের চত্বরে অবস্থান নিন এবং আলফা টিমকে নিয়ে প্রতিটি আক্রমণ প্রতিহত করুন।,scripts/autoload/Game.gd:154
+line_84a2ea37f2,line_84a2ea37f2.ogg,,বাজারে সংঘর্ষ,scripts/autoload/Game.gd:157
+line_0fcb09276c,line_0fcb09276c.ogg,,কারওয়ান বাজার,scripts/autoload/Game.gd:158
+line_b9d5e495fc,line_b9d5e495fc.ogg,,"কারওয়ান বাজারের ভিড়ের মধ্যে চক্রের সশস্ত্র দল লুকিয়ে আছে। দুপুরের ব্যস্ত বাজারে প্রত্যেক সন্ত্রাসীকে নির্মূল করুন, তারপর আমাদের সোর্সের সাথে দেখা করুন। মনে রাখবেন, তিনজনের বেশি সাধারণ মানুষ মারা গেলে মিশন বাতিল।",scripts/autoload/Game.gd:161
+line_8965dd9110,line_8965dd9110.ogg,,ভোরের রানওয়ে,scripts/autoload/Game.gd:164
+line_839e571b64,line_839e571b64.ogg,,হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর,scripts/autoload/Game.gd:165
+line_9d28ded3d3,line_9d28ded3d3.ogg,,"ভোরের আলো ফোটার মুহূর্তে বিমানবন্দরের টারম্যাকে ঢুকতে হবে। বেড়া কেটে ভেতরে ঢুকুন, কার্গো বিমানে ট্র্যাকার বসান, হ্যাঙ্গারের অফিস থেকে চালানের তালিকা সংগ্রহ করুন এবং কেউ টের পাওয়ার আগেই বেরিয়ে যান। আলফা টিম বেড়ার বাইরে অপেক্ষা করবে — দরকার হলে H চাপুন।",scripts/autoload/Game.gd:168
+line_1bb7c47ada,line_1bb7c47ada.ogg,,জিম্মি উদ্ধার,scripts/autoload/Game.gd:171
+line_2d7f36b851,line_2d7f36b851.ogg,,বসুন্ধরা সিটি শপিং মল,scripts/autoload/Game.gd:172
+line_30a0b3ec12,line_30a0b3ec12.ogg,,"সন্ধ্যায় বসুন্ধরা সিটি শপিং মলে কালো ছায়া চারজন সাধারণ মানুষকে জিম্মি করেছে। মলের বিভিন্ন তলায় তাদের আটকে রাখা হয়েছে। প্রত্যেক জিম্মির মুখের টেপ খুলে পানি দিন, তাঁদের কাছ থেকে তথ্য নিন — তারপর আলফা টিম তাঁদের কাঁধে তুলে বাইরের পুলিশ কর্ডনে নিয়ে যাবে। কোনো জিম্মি মারা গেলে মিশন ব্যর্থ।",scripts/autoload/Game.gd:175
+line_2e7987f9f0,line_2e7987f9f0.ogg,,বুড়িগঙ্গার ঝড়,scripts/autoload/Game.gd:178
+line_51da27c627,line_51da27c627.ogg,,বুড়িগঙ্গা নদী,scripts/autoload/Game.gd:179
+line_37e4dc3aad,line_37e4dc3aad.ogg,,"ঝড়ের রাতে বুড়িগঙ্গায় নোঙর করা একটি মালবাহী জাহাজে কালো ছায়ার সবচেয়ে বড় অস্ত্রের চালান রয়েছে। জেটি থেকে বার্জ পেরিয়ে জাহাজে উঠুন, অস্ত্র ব্যবসায়ী 'সরদার'-কে নির্মূল করুন, চালানে বিস্ফোরক বসান এবং বিস্ফোরণের আগেই জেটিতে ফিরে আসুন।",scripts/autoload/Game.gd:182
+line_6d9a1bbf76,line_6d9a1bbf76.ogg,,শেষ লড়াই,scripts/autoload/Game.gd:185
+line_23281cb527,line_23281cb527.ogg,,জাতীয় সংসদ ভবন এলাকা,scripts/autoload/Game.gd:186
+line_f88faba0d1,line_f88faba0d1.ogg,,"চক্রের প্রধান 'শকুন' জাতীয় সংসদ ভবন এলাকায় শেষ আঘাত হানতে চায়। দক্ষিণ প্লাজা পর্যন্ত লড়াই করে এগিয়ে যান, শকুনকে পরাজিত করুন এবং হেলিকপ্টার পয়েন্টে পৌঁছে নিরাপদে বেরিয়ে আসুন। এটাই শেষ লড়াই।",scripts/autoload/Game.gd:189

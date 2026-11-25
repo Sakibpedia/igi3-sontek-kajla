@@ -1,0 +1,109 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="IGI 3 - S M Nazmuz Sakib"
+config/description="IGI-style stealth campaign: 15 Bengali missions across Dhaka. Built from OpenStreetMap data."
+config/version="3.0.0"
+run/main_scene="res://scenes/SontekMenu.tscn"
+config/features=PackedStringArray("4.3", "GL Compatibility")
+boot_splash/bg_color=Color(0.03, 0.09, 0.06, 1)
+boot_splash/show_image=false
+config/icon="res://icon.svg"
+
+[audio]
+
+general/text_to_speech=true
+
+[autoload]
+
+Game="*res://scripts/autoload/Game.gd"
+AssetLoader="*res://scripts/autoload/AssetLoader.gd"
+AudioManager="*res://scripts/autoload/AudioManager.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[gui]
+
+theme/custom_font="res://assets/fonts/NotoSansBengali-Regular.ttf"
+
+[input]
+
+health_check={
+"deadzone": 0.51,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":77,"key_label":0,"unicode":109,"location":0,"echo":false,"script":null)
+]
+}
+open_drawer={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":78,"key_label":0,"unicode":110,"location":0,"echo":false,"script":null)
+]
+}
+
+[internationalization]
+
+locale/include_text_server_data=true
+
+[navigation]
+
+; Match the cells generated in IGIMission.gd so regions are accepted by the map.
+3d/default_cell_size=0.5
+3d/default_cell_height=0.4
+3d/merge_rasterizer_cell_scale=0.001
+
+[physics]
+
+3d/default_gravity=13.0
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+lights_and_shadows/directional_shadow/size=2048
+lights_and_shadows/directional_shadow/soft_shadow_filter_quality=0
+lights_and_shadows/positional_shadow/soft_shadow_filter_quality=0
+environment/defaults/default_clear_color=Color(0.05, 0.06, 0.08, 1)
+
+[shader_globals]
+
+fog_color={
+"type": "color",
+"value": Color(0.45, 0.5, 0.55, 1)
+}
+fog_density={
+"type": "float",
+"value": 0.01
+}
+fog_start={
+"type": "float",
+"value": 10.0
+}
+world_wetness={
+"type": "float",
+"value": 0.0
+}
+baked_strength={
+"type": "float",
+"value": 1.0
+}
+night_factor={
+"type": "float",
+"value": 0.0
+}
+thermal={
+"type": "float",
+"value": 0.0
+}

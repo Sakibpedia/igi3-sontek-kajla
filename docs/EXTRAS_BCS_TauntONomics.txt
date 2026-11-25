@@ -1,0 +1,93 @@
+TAUNT-O-NOMICS: DHAKA — V3 (major upgrade)
+=========================================
+
+YOUR EARLIER FILES ARE PRESERVED
+--------------------------------
+Original source : G:\GTA\Downloads\TauntONomics_Dhaka_source  (unchanged v2)
+New version     : G:\GTA\Downloads\TauntONomics_Dhaka_v3      (all new work)
+Old builds      : G:\GTA\Downloads\TauntONomics_Builds\       (EXE/APK/Web)
+New builds      : G:\GTA\Downloads\TauntONomics_v3_Builds\    (EXE/APK/Web)
+
+WHAT'S NEW IN V3
+----------------
+
+1. FULLY WALKABLE 3D BUILDING WITH PHYSICS (new)
+   A real 4-storey Dhaka walk-up beside the safehouse with:
+   - Ground floor + 3 upper floors + accessible roof
+   - A real staircase with 16 individual treads per storey AND a low-slope ramp
+     collider so the player can actually walk up (no teleporting)
+   - Two flats per floor with partition walls and their own hinged doors
+   - Doors and windows that OPEN and CLOSE with animation when you press E or tap
+   - Full static-body collision on walls, slabs, treads, railings and parapet
+   - Warm interior lights, roof parapet, water tank, cornice dentils and a jali
+     lattice screen at the entrance (researched from Old Dhaka architecture)
+   - Reach it in-game: it stands on a cleared plot 112 m east+south of the safehouse
+
+2. CONVERSATION QUESTION OVERLAP FIXED
+   The dialogue box was only 460 px tall while a long question bank needed more.
+   It is now 630 px with a SCROLLABLE options list and a pinned input row, so
+   questions can never overlap the typing box or the stop-talking button.
+
+3. BENGALI SPEECH — VERIFIED + A TEST BUTTON
+   1,509 recorded Bengali clips are bundled. Engine verification printed:
+     key exists = true, player bound = true, clip decodes = 3.31 s, master = 0 dB
+   In the phone: Settings > "বাংলা কণ্ঠ পরীক্ষা করুন" plays a test line.
+   If you still hear nothing, the issue is the device/system audio output or the
+   browser's autoplay policy (Web requires one click before audio can play).
+
+4. CLEARER STORY / MISSION JOURNAL
+   Phone > মিশন now shows: chapter number and name, place subtitle, the current
+   objective, live progress (counter/need), every mission with its brief and
+   reward, and what unlocks next.
+
+5. RESEARCH-DRIVEN ARCHITECTURE DATA
+   DhakaDistricts.gd now also contains ARCHITECTURE notes from Banglapedia, The
+   Daily Star, DOUET and Hidden Heritage: Mughal cusped arches/jalis/courtyards,
+   colonial semi-circular arches with keystones, pediments, cast-iron railings,
+   vernacular walk-ups with chajjas and floor-defining cornices, and Old Dhaka
+   narrow-deep courtyard plots.
+
+6. CARRIED OVER FROM V2
+   - Silent city (no street/vehicle/siren loops)
+   - Authentic GLB rickshaw, CNG and bus models
+   - Hailable rickshaw/CNG rides with BRTA fare payment
+   - 23 levels including Kajla, Sontek, Jurain and Jatrabari districts
+   - Mouse-click E interaction, on-screen Talk button, exam Next/End buttons
+   - Brighter sky, more building colour, improved procedural faces
+
+OPEN / CC0 3D ASSETS ADDED
+--------------------------
+184 real 3D models were downloaded from public-domain (CC0-1.0) sources and baked
+into single-draw-call vertex-coloured GLBs in assets/models/cc0_merged/:
+
+  1. kayquer/kit-cidade-lowpoly  (129 models: houses, walk-ups, shops, hospital,
+     school, market, factory, roads, street furniture, trees, bicycles)
+     https://github.com/kayquer/kit-cidade-lowpoly          License: CC0-1.0
+
+  2. kayquer/scitizia-pessoas-64 (55 low-poly people, ~1.7 m tall, textured)
+     https://github.com/kayquer/scitizia-pessoas-64         License: CC0-1.0
+
+  3. NoLimitNexus/game-models   (9 animated humanoid rigs, Quaternius/KayKit)
+     https://github.com/NoLimitNexus/game-models             License: CC0
+
+Provenance: assets/models/cc0_merged/manifest.json, plus LICENSE.txt files in
+assets/models/cc0_citykit and assets/models/cc0_characters.
+
+How they are used:
+  - Real modelled buildings replace a share of the procedural boxes in the city
+  - Real modelled people stand around the safehouse square (better anatomy)
+  - Real benches, bins, hydrants, cisterns, trees and bicycles line the lanes
+  - All are ONE draw call each, so the weak GPU still runs ~40 FPS
+
+CONTROLS
+--------
+WASD move | Shift sprint | Space jump | Mouse look | E / click talk-use
+1-4 exam answer | Enter/E next | Tab/M/Esc phone
+Walk up to a door or window and press E to animate it open/closed.
+Climb the stairwell in the walkable building to visit any flat or the roof.
+
+FILES
+-----
+TauntONomics_Dhaka_v3.exe   Windows
+TauntONomics_Dhaka_v3.apk   Signed Android (arm64)
+TauntONomics_v3_Web\        Web — serve with `python -m http.server`, open index.html

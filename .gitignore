@@ -1,0 +1,16 @@
+# Godot 4 generated folders
+.godot/
+.import/
+build/
+*.tmp
+export_credentials.cfg
+
+# Editor-only third-party addon: it uses Godot 4.4+ typed dictionaries and
+# does not parse in the 4.3 editor. The game does not reference it at all.
+addons/asset_placer/
+
+# Local test / tooling output
+tools/test/out/
+*.log
+__pycache__/
+.DS_Store

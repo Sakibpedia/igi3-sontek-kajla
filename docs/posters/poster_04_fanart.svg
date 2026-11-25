@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c1610"/>
+      <stop offset="100%" stop-color="#040807"/>
+    </linearGradient>
+    <radialGradient id="g4" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#e0b93f" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#e0b93f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#bg4)"/>
+  <rect width="800" height="1200" fill="url(#g4)"/>
+  <g fill="#050b08">
+    <path d="M0 780 Q200 700 400 760 Q600 820 800 740 L800 1200 L0 1200 Z"/>
+  </g>
+  <g fill="#0b1b12" opacity="0.9">
+    <rect x="40" y="640" width="90" height="170"/><rect x="145" y="600" width="70" height="210"/>
+    <rect x="230" y="660" width="100" height="150"/><rect x="470" y="630" width="80" height="180"/>
+    <rect x="565" y="590" width="90" height="220"/><rect x="670" y="650" width="90" height="160"/>
+  </g>
+  <g fill="#020605">
+    <ellipse cx="400" cy="640" rx="54" ry="62"/>
+    <path d="M354 686 Q400 660 446 686 L462 900 L338 900 Z"/>
+    <path d="M344 725 L306 850 L326 858 L360 748 Z"/>
+    <path d="M456 725 L494 850 L474 858 L440 748 Z"/>
+  </g>
+  <g stroke="#d9b648" stroke-width="2" fill="none" opacity="0.8">
+    <circle cx="400" cy="640" r="120"/>
+    <path d="M400 500 L400 520 M400 760 L400 780 M260 640 L280 640 M520 640 L540 640"/>
+  </g>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="60" font-weight="900" fill="#f0d27d">S M NAZMUS SAKIB</text>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" letter-spacing="6" fill="#d8d2bd">PRESENTS</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="100" font-weight="900" fill="#f0d27d">IGI 2</text>
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" letter-spacing="4" fill="#a8bda9">THE DHAKA CAMPAIGN</text>
+  <text x="400" y="1020" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="38" font-weight="900" fill="#f0d27d">STEALTH / STRATEGY / 15 MISSIONS</text>
+  <text x="400" y="1070" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#8fa392">FAN-MADE POSTER ART / IGI 2 EDITOR MOD</text>
+  <rect x="0" y="1130" width="800" height="70" fill="#0a140e"/>
+  <text x="400" y="1175" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" letter-spacing="5" fill="#77917c">NO OPERATIVE LEFT BEHIND</text>
+</svg>

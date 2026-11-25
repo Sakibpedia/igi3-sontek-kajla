@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#081811"/><stop offset="100%" stop-color="#030806"/>
+    </linearGradient>
+    <radialGradient id="g" cx="50%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#d8b23c" stop-opacity="0.32"/><stop offset="100%" stop-color="#d8b23c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#bg)"/><rect width="800" height="1200" fill="url(#g)"/>
+  <g fill="#05100b"><rect x="30" y="700" width="90" height="210"/><rect x="135" y="650" width="70" height="260"/><rect x="220" y="720" width="110" height="190"/><rect x="470" y="670" width="85" height="240"/><rect x="570" y="630" width="95" height="280"/><rect x="680" y="710" width="90" height="200"/></g>
+  <g fill="#020604"><ellipse cx="400" cy="690" rx="56" ry="64"/><path d="M353 738 Q400 710 447 738 L465 950 L335 950 Z"/><path d="M342 780 L302 900 L324 908 L358 806 Z"/><path d="M458 780 L498 900 L476 908 L442 806 Z"/></g>
+  <g stroke="#d8b23c" stroke-width="2" fill="none" opacity="0.75"><circle cx="400" cy="690" r="118"/><path d="M400 550 L400 572 M400 808 L400 830 M260 690 L282 690 M518 690 L540 690"/></g>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="96" fill="#f2d878">IGI 3</text>
+  <text x="400" y="400" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif" font-size="36" fill="#e8dec0">এস এম নাজমুজ সাকিব</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif" font-size="26" fill="#cfd8c6">এক অপারেটিভ, পনেরোটি অভিযান</text>
+  <text x="400" y="1030" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif" font-size="32" fill="#f2d878">সাহসী হৃদয়, নিঃশব্দ পদচারণা</text>
+  <text x="400" y="1080" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#9aae9e">S M NAZMUS SAKIB / DHAKA / 15 MISSIONS</text>
+  <rect x="0" y="1130" width="800" height="70" fill="#0a140e"/>
+  <text x="400" y="1175" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif" font-size="18" fill="#77917c">লক্ষ্য অর্জনই আমাদের পরিচয়</text>
+</svg>

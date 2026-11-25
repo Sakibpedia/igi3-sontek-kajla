@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14100a"/>
+      <stop offset="50%" stop-color="#1e1a10"/>
+      <stop offset="100%" stop-color="#070604"/>
+    </linearGradient>
+    <linearGradient id="gold3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d4af37" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f3d778"/>
+      <stop offset="100%" stop-color="#d4af37" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#bg3)"/>
+  <g stroke="#3a3220" stroke-width="1" opacity="0.55">
+    <path d="M0 120 L800 120 M0 1080 L800 1080 M60 0 L60 1200 M740 0 L740 1200"/>
+  </g>
+  <rect x="60" y="150" width="680" height="900" fill="none" stroke="#caa53c" stroke-width="3" opacity="0.65"/>
+  <rect x="72" y="162" width="656" height="876" fill="none" stroke="#6b5a2a" stroke-width="1"/>
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="9" fill="#c9b583">CAMPAIGN BRIEFING / CLASSIFIED</text>
+  <rect x="180" y="290" width="440" height="3" fill="url(#gold3)"/>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="74" font-weight="900" fill="#f3d778">IGI 2</text>
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" letter-spacing="5" fill="#e8dfc6">S M NAZMUS SAKIB</text>
+  <g font-family="Arial, sans-serif" font-size="22" fill="#bdb49a">
+    <text x="130" y="570">OPERATION THEATRE .... DHAKA AND DISTRICTS</text>
+    <text x="130" y="625">CAMPAIGN LENGTH ...... 15 MISSIONS</text>
+    <text x="130" y="680">MISSION IDs .......... 301 THROUGH 315</text>
+    <text x="130" y="735">OBJECTIVES ........... 3 PER MISSION</text>
+    <text x="130" y="790">ROLE ................. COVERT OPERATIVE</text>
+    <text x="130" y="845">STATUS ............... ACTIVE</text>
+  </g>
+  <rect x="180" y="900" width="440" height="3" fill="url(#gold3)"/>
+  <text x="400" y="980" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="46" font-weight="900" fill="#f3d778">MISSION COMPLETE</text>
+  <text x="400" y="1025" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="6" fill="#8d8368">15 OF 15 / ALL OBJECTIVES MET</text>
+</svg>
