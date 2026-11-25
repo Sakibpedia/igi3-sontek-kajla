@@ -131,10 +131,12 @@ Each test prints a `[CITY]`, `[IGI]`, `[NEUTRAL]` or `[SAVE]` **PASS** line and 
 **Verified on 2026-11-25 (Godot 4.3 stable):**
 
 - City: 1,500 buildings, 6 feature houses (max 15 floors), 14,380 window openings, 30 shops (10 pharmacies), 200 civilians, 56 lift stops — PASS.
-- Missions M01 and M15: 10 objectives, navmesh reachable, 1,500 buildings — PASS.
+- **All 15 missions (M01–M15): PASS** — 7–10 objectives each, navmesh reachable, 1,500 buildings.
 - Neutral forces: 165 actors, squad retaliation, airstrike call — PASS.
 - Save system: checkpoints, medals, unlocks, ranks — PASS.
-- Fresh Windows export from source — PASS (118 MB embedded-PCK executable).
+- Fresh Windows export from source — PASS (118 MB embedded-PCK executable); launched successfully.
+
+Full results: [docs/VERIFICATION.md](docs/VERIFICATION.md).
 
 ## Credits and licensing
 
