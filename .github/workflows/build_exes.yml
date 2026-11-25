@@ -107,13 +107,14 @@ jobs:
           Copy-Item CITY_DESIGN.md build\
           New-Item -ItemType Directory -Force -Path build\docs | Out-Null
           Copy-Item docs\* build\docs\ -Recurse
-          Set-Content -Encoding utf8 build\CONTROLS.txt @'
-WASD move | Shift sprint | Ctrl crouch/prone | C/Q lean
-LMB fire | RMB aim | 8 scope | R reload
-1-3 weapons | 4 grenade | 5 molotov | 6 time bomb
-E interact / shop / vault / photo / drive
-T thermal | N headphones | B binoculars | M map | Tab objectives | Esc pause
-'@
+          $controls = @(
+            'WASD move | Shift sprint | Ctrl crouch/prone | C/Q lean',
+            'LMB fire | RMB aim | 8 scope | R reload',
+            '1-3 weapons | 4 grenade | 5 molotov | 6 time bomb',
+            'E interact / shop / vault / photo / drive',
+            'T thermal | N headphones | B binoculars | M map | Tab objectives | Esc pause'
+          )
+          Set-Content -Encoding utf8 build\CONTROLS.txt $controls
 
       - name: Upload .exe artifact
         uses: actions/upload-artifact@v4
