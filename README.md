@@ -120,6 +120,12 @@ godot --headless --path . res://tools/test/SaveTest.tscn
 godot --headless --path . --export-release "Windows Desktop"
 ```
 
+To check **every campaign mission** in one go (M01–M15):
+
+```powershell
+powershell tools/test/run_all_missions.ps1 -Godot "C:\path\to\Godot_v4.3-stable_win64_console.exe"
+```
+
 Each test prints a `[CITY]`, `[IGI]`, `[NEUTRAL]` or `[SAVE]` **PASS** line and exits with code 0. Detailed click-by-click instructions are in [README_HOW_TO_BUILD.md](README_HOW_TO_BUILD.md) and [README_HOW_TO_DOWNLOAD.md](README_HOW_TO_DOWNLOAD.md).
 
 **Verified on 2026-11-25 (Godot 4.3 stable):**
