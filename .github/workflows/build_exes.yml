@@ -9,6 +9,9 @@ on:
     tags: [ 'v*' ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 env:
   GODOT_VERSION: "4.3"
   GODOT_RELEASE: "stable"
