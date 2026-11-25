@@ -35,6 +35,16 @@ Keyboard/mouse controls are in [CONTROLS](#controls). The game is in Bengali wit
 
 ![Wanted poster key art](docs/images/wanted-poster.png)
 
+### Build lineage
+
+![Mission count in each IGI Sontek Kajla build](docs/images/build-lineage.png)
+
+`IGI_SontekKajla_v11.exe` is an **earlier build of the same game** (6 missions,
+older neutral-force scripts), not a different game. v1–v3 had 5 missions and
+v4–v14 had 6; the 15-mission dense-city rebuild shipped as "IGI 3" is what this
+repository contains. See [docs/BUILD_LINEAGE.md](docs/BUILD_LINEAGE.md) for the
+full binary survey and the preserved legacy build.
+
 In-game IGI-style posters and leaflets live in `assets/textures/`. Six promotional poster SVGs (`poster_01` … `poster_06`, two in Bengali) are in [`docs/posters/`](docs/posters/). All three README images are generated locally from the project's own map and fonts with `python tools/make_readme_visuals.py`.
 
 ## Missions

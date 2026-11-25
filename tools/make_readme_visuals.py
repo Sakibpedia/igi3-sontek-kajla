@@ -7,7 +7,7 @@ Run from the repository root:
 
 Inputs : assets/maps/kajla_osm.png, assets/fonts/NotoSans-Bold.ttf
 Outputs: docs/images/banner.png, docs/images/map-overview.png,
-         docs/images/wanted-poster.png
+         docs/images/wanted-poster.png, docs/images/build-lineage.png
 
 The images are decorative key art for the documentation. They are generated
 locally so the repository stays self-contained and reproducible.
@@ -157,9 +157,46 @@ def wanted_poster() -> None:
     img.convert("RGB").save(OUT / "wanted-poster.png", optimize=True)
 
 
+def build_lineage_chart() -> None:
+    """Mission count per shipped IGI build (read from the embedded PCKs)."""
+    w, h = 1200, 520
+    img = gradient((w, h), (12, 26, 32), (5, 9, 13)).convert("RGBA")
+    over = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    d = ImageDraw.Draw(over, "RGBA")
+    d.text((56, 34), "IGI SONTEK KAJLA - BUILD LINEAGE",
+           font=font(38), fill=CREAM + (255,))
+    d.text((58, 84), "Mission scenes embedded in each exported executable",
+           font=font(20), fill=TEAL + (255,))
+
+    labels = ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9",
+              "v10", "v11", "v12", "v13", "v14", "IGI 3"]
+    counts = [5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 15]
+    base, top = h - 90, 140
+    scale = (base - top) / 16.0
+    bw, gap = 54, 17
+    x0 = 52
+    for i, (label, count) in enumerate(zip(labels, counts)):
+        x = x0 + i * (bw + gap)
+        bh = count * scale
+        color = GOLD if label == "v11" else (TEAL if label == "IGI 3" else (92, 116, 122))
+        d.rectangle((x, base - bh, x + bw, base), fill=color + (235,))
+        d.rectangle((x, base - bh, x + bw, base - bh + 4), fill=CREAM + (200,))
+        d.text((x + bw // 2, base - bh - 22), str(count),
+               font=font(19), fill=color + (255,), anchor="mm")
+        d.text((x + bw // 2, base + 18), label,
+               font=font(17), fill=(195, 210, 208, 255), anchor="mm")
+    d.text((56, h - 30), "v11 = earlier 6-mission build",
+           font=font(17), fill=GOLD + (255,))
+    d.text((760, h - 30), "IGI 3 = 15 missions",
+           font=font(17), fill=TEAL + (255,))
+    img = Image.alpha_composite(img, over)
+    img.convert("RGB").save(OUT / "build-lineage.png", optimize=True)
+
+
 if __name__ == "__main__":
     wanted_poster()
     banner()
     map_overview()
+    build_lineage_chart()
     for p in sorted(OUT.glob("*.png")):
         print(f"{p.name}: {p.stat().st_size // 1024} KB")
